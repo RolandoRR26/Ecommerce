@@ -14,13 +14,13 @@ body {
 header {
   width: 100%;
   padding: 10px 50px;
-  background-color: #eeecec;
+  background-color: #ffffff;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 header img {
-  width: 8%;
+  width: 10%;
 }
 header i {
   width: 35px;
@@ -65,7 +65,7 @@ header i img {
   text-align: center;
 }
 .products article img {
-  width: 200px;
+  width: 210px;
   margin-bottom: 15px;
 }
 .products article h3 {

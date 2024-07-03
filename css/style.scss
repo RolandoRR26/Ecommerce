@@ -22,14 +22,13 @@ body {
 header {
     width: $main-width;
     padding: 10px 50px;
-    background-color: #eeecec;
+    background-color: #ffffff;
     @include flexbox;
     align-items: center;
     @extend  %box-sizing-main;
 
     img {
-        width: 8%; 
-        ;
+        width: 10%;         
     }
 
     i {
@@ -81,7 +80,7 @@ header {
         text-align: center;
 
         img {
-            width: 200px;
+            width: 210px;
             margin-bottom: 15px;
         }
 
